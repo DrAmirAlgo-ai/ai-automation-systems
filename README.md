@@ -16,12 +16,7 @@ A collection of end-to-end AI automation systems, multi-agent pipelines, and dom
 - **Stack:** C# / .NET, React, SQLite / PostgreSQL (pgvector), Local Qwen (LM Studio)
 - **Key Capability:** Multi-clinic management (smart queue, online booking, billing, owner panel) plus a medical assistant that answers from a medical library with source attribution.
 
-### 3. [Call Copilot — Real-Time Conversational Assistant](./call-copilot)
-- **Domain:** Real-Time AI Agents & Live Communication
-- **Stack:** Web Speech API, Agentic Behavior Engine, Sliding Window Memory, Local/Cloud Multi-Tier Failover.
-- **Key Capability:** Live bilingual speech translation, dynamic conversational memory, and peer-to-peer strategic response generation.
-
-### 4. [AI Outbound & Lead Qualification System](https://github.com/DrAmirAlgo-ai/ai-outbound-lead-qualification)
+### 3. [AI Outbound & Lead Qualification System](https://github.com/DrAmirAlgo-ai/ai-outbound-lead-qualification)
 - **Domain:** Process Automation & Sales Operations
 - **Stack:** Python, LLM Evaluation Pipelines, Zoho SMTP, Model Failover Strategies.
 - **Key Capability:** Ingestion, automated qualification scoring, and throttled multi-channel outreach tracking.
