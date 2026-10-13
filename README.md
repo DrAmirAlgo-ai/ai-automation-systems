@@ -21,7 +21,7 @@ A collection of end-to-end AI automation systems, multi-agent pipelines, and dom
 - **Stack:** Web Speech API, Agentic Behavior Engine, Sliding Window Memory, Local/Cloud Multi-Tier Failover.
 - **Key Capability:** Live bilingual speech translation, dynamic conversational memory, and peer-to-peer strategic response generation.
 
-### 4. [AI Outbound & Lead Qualification System](./ai-outbound-engine)
+### 4. [AI Outbound & Lead Qualification System](https://github.com/DrAmirAlgo-ai/ai-outbound-lead-qualification)
 - **Domain:** Process Automation & Sales Operations
 - **Stack:** Python, LLM Evaluation Pipelines, Zoho SMTP, Model Failover Strategies.
 - **Key Capability:** Ingestion, automated qualification scoring, and throttled multi-channel outreach tracking.
