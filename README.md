@@ -6,8 +6,8 @@ A collection of end-to-end AI automation systems, multi-agent pipelines, and dom
 
 ## Core Systems Overview
 
-### 1. [ContentForge — AI Content Automation Pipeline](https://github.com/DrAmirAlgo-ai/contentforge-ai-video-pipeline)-
-**Domain:** Media Production & Content Automation
+### 1. [ContentForge — AI Content Automation Pipeline](https://github.com/DrAmirAlgo-ai/contentforge-ai-video-pipeline)
+- **Domain:** Media Production & Content Automation
 - **Stack:** ComfyUI (FLUX), Wan 2.2 (Image-to-Video), Local LLMs (Qwen), ElevenLabs, FFmpeg.
 - **Key Capability:** Converts ideas into complete animated videos with synced voiceover and subtitles without manual editing.
 
