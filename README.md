@@ -28,7 +28,7 @@ A collection of end-to-end AI automation systems, multi-agent pipelines, and dom
 
 ---
 
-## 🛠️ Technical Capabilities & Method
+## Technical Capabilities & Method
 - **Methodology:** AI-assisted software development using coding agents (Claude Code) — owning problems end-to-end from architectural spec to deployed validation.
 - **Infrastructure:** Hybrid local-first (Local GPUs, LM Studio, ComfyUI, Ollama) and scalable cloud compute (Runpod, Gemini APIs).
 - **Core Focus:** Agentic system design, RAG pipelines, workflow automation, and backend integration.
