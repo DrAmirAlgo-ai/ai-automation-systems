@@ -11,10 +11,10 @@ A collection of end-to-end AI automation systems, multi-agent pipelines, and dom
 - **Stack:** ComfyUI (FLUX), Wan 2.2 (Image-to-Video), Local LLMs (Qwen), ElevenLabs, FFmpeg.
 - **Key Capability:** Converts ideas into complete animated videos with synced voiceover and subtitles without manual editing.
 
-### 2. [TechCare — Clinical Decision Support & RAG Platform](./techcare-rag-clinic)
-- **Domain:** Healthcare & Clinical Knowledge Retrieval
-- **Stack:** C# / .NET, Local Qwen 3.5 9B (LM Studio), Gemini API, Vector Search / RAG.
-- **Key Capability:** Grounded clinical search across PubMed, medical guidelines, and local drug registries with full source attribution.
+### 2. [TechCare — Clinic Management System with AI Assistant](https://github.com/DrAmirAlgo-ai/techcare-clinic-management)
+- **Domain:** Healthcare & Clinic Management
+- **Stack:** C# / .NET, React, SQLite / PostgreSQL (pgvector), Local Qwen (LM Studio)
+- **Key Capability:** Multi-clinic management (smart queue, online booking, billing, owner panel) plus a medical assistant that answers from a medical library with source attribution.
 
 ### 3. [Call Copilot — Real-Time Conversational Assistant](./call-copilot)
 - **Domain:** Real-Time AI Agents & Live Communication
